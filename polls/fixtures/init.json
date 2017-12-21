@@ -1,0 +1,1034 @@
+[{
+"model": "polls.question",
+"pk": 1,
+"fields": {
+"question_text": "HOW OLD ARE YOU?",
+"pub_date": "2017-05-04T18:02:12Z"
+}
+}, {
+"model": "polls.question",
+"pk": 2,
+"fields": {
+"question_text": "HOW MANY RULERS DO YOU HAVE",
+"pub_date": "2017-06-11T17:02:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 3,
+"fields": {
+"question_text": "HOW IS THE WHEATHER",
+"pub_date": "2017-12-30T02:10:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 4,
+"fields": {
+"question_text": "WHAT IS THIS?",
+"pub_date": "2017-12-01T02:10:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 5,
+"fields": {
+"question_text": "WHO ARE YOU?",
+"pub_date": "2017-05-29T17:56:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 6,
+"fields": {
+"question_text": "wwww6",
+"pub_date": "2017-12-15T07:57:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 7,
+"fields": {
+"question_text": "www7",
+"pub_date": "2017-12-15T07:57:00Z"
+}
+}, {
+"model": "polls.choice",
+"pk": 1,
+"fields": {
+"question": 1,
+"choice_text": "7",
+"votes": 4
+}
+}, {
+"model": "polls.choice",
+"pk": 2,
+"fields": {
+"question": 1,
+"choice_text": "8",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 3,
+"fields": {
+"question": 1,
+"choice_text": "9",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 4,
+"fields": {
+"question": 1,
+"choice_text": "10",
+"votes": 1
+}
+}, {
+"model": "polls.choice",
+"pk": 5,
+"fields": {
+"question": 6,
+"choice_text": "www61",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 6,
+"fields": {
+"question": 6,
+"choice_text": "22262",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 7,
+"fields": {
+"question": 6,
+"choice_text": "33363",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 8,
+"fields": {
+"question": 7,
+"choice_text": "7--1",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 9,
+"fields": {
+"question": 7,
+"choice_text": "7--2",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 10,
+"fields": {
+"question": 7,
+"choice_text": "7--3",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 11,
+"fields": {
+"question": 2,
+"choice_text": "1ruleer",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 12,
+"fields": {
+"question": 2,
+"choice_text": "2rulers",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 13,
+"fields": {
+"question": 2,
+"choice_text": "3rulers",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 14,
+"fields": {
+"question": 3,
+"choice_text": "rainy",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 15,
+"fields": {
+"question": 3,
+"choice_text": "cloudy",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 16,
+"fields": {
+"question": 3,
+"choice_text": "sunny",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 17,
+"fields": {
+"question": 4,
+"choice_text": "desk",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 18,
+"fields": {
+"question": 4,
+"choice_text": "chair",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 19,
+"fields": {
+"question": 4,
+"choice_text": "rubber",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 20,
+"fields": {
+"question": 5,
+"choice_text": "am",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 21,
+"fields": {
+"question": 5,
+"choice_text": "an",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 22,
+"fields": {
+"question": 5,
+"choice_text": "jack",
+"votes": 0
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 1,
+"fields": {
+"app_label": "admin",
+"model": "logentry"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 2,
+"fields": {
+"app_label": "auth",
+"model": "permission"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 3,
+"fields": {
+"app_label": "auth",
+"model": "group"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 4,
+"fields": {
+"app_label": "auth",
+"model": "user"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 5,
+"fields": {
+"app_label": "contenttypes",
+"model": "contenttype"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 6,
+"fields": {
+"app_label": "sessions",
+"model": "session"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 7,
+"fields": {
+"app_label": "polls",
+"model": "question"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 8,
+"fields": {
+"app_label": "polls",
+"model": "choice"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 9,
+"fields": {
+"app_label": "django_comments",
+"model": "comment"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 10,
+"fields": {
+"app_label": "django_comments",
+"model": "commentflag"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 11,
+"fields": {
+"app_label": "sites",
+"model": "site"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 12,
+"fields": {
+"app_label": "tagging",
+"model": "tag"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 13,
+"fields": {
+"app_label": "tagging",
+"model": "taggeditem"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 14,
+"fields": {
+"app_label": "zinnia",
+"model": "category"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 15,
+"fields": {
+"app_label": "zinnia",
+"model": "entry"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 16,
+"fields": {
+"app_label": "zinnia",
+"model": "author"
+}
+}, {
+"model": "sessions.session",
+"pk": "34ce81opmw3urhn9q0mulfvwuubc3d8g",
+"fields": {
+"session_data": "ZTE1Njc2Y2E1YmRkZjQzNDg0ZDQ0MDNlZWE2NGVjMTNmZjNhNjQ2Njp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIxNjQwNjI0ZjQzZjdjYTgwZDU0ZWI3MmQxODQ0ZGJkZmRhMWE5MTZjIn0=",
+"expire_date": "2017-12-29T07:57:18.431Z"
+}
+}, {
+"model": "sessions.session",
+"pk": "j67du6j7ug2mwjunce6zesuc3b931nhq",
+"fields": {
+"session_data": "ZmUyMTI4ODJmZTkzNjM2NGM1ZWVmNDgxZjI0MmEwNjVmNGU0ZWQ1Zjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJmYmU4NjJiYzc1ODY0M2ZmMzA1MWY0MDZiMmFjMzk0ZmEzOGNjNTM4In0=",
+"expire_date": "2017-12-19T05:31:34.677Z"
+}
+}, {
+"model": "sessions.session",
+"pk": "oouqxsjbelt3liiqnkzcs2lpqpxxbyco",
+"fields": {
+"session_data": "ZmUyMTI4ODJmZTkzNjM2NGM1ZWVmNDgxZjI0MmEwNjVmNGU0ZWQ1Zjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJmYmU4NjJiYzc1ODY0M2ZmMzA1MWY0MDZiMmFjMzk0ZmEzOGNjNTM4In0=",
+"expire_date": "2017-12-19T05:44:02.307Z"
+}
+}, {
+"model": "sessions.session",
+"pk": "t1no6bu57k3z70unk70cqcrxsujqjswe",
+"fields": {
+"session_data": "Njg0ODM4NGZiMzZkYzM5ZWIzNjUzMzYwM2MzZjIyYTI3MjIxMmQ2OTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjNGJiMzZlNjNmOTk0ZTZiZmQ1ODE0NDg5MWIxMzVmNGVjMWU5NzYwIn0=",
+"expire_date": "2017-12-21T06:58:57.514Z"
+}
+}, {
+"model": "sites.site",
+"pk": 1,
+"fields": {
+"domain": "example.com",
+"name": "example.com"
+}
+}, {
+"model": "auth.permission",
+"pk": 1,
+"fields": {
+"name": "Can add log entry",
+"content_type": 1,
+"codename": "add_logentry"
+}
+}, {
+"model": "auth.permission",
+"pk": 2,
+"fields": {
+"name": "Can change log entry",
+"content_type": 1,
+"codename": "change_logentry"
+}
+}, {
+"model": "auth.permission",
+"pk": 3,
+"fields": {
+"name": "Can delete log entry",
+"content_type": 1,
+"codename": "delete_logentry"
+}
+}, {
+"model": "auth.permission",
+"pk": 4,
+"fields": {
+"name": "Can add permission",
+"content_type": 2,
+"codename": "add_permission"
+}
+}, {
+"model": "auth.permission",
+"pk": 5,
+"fields": {
+"name": "Can change permission",
+"content_type": 2,
+"codename": "change_permission"
+}
+}, {
+"model": "auth.permission",
+"pk": 6,
+"fields": {
+"name": "Can delete permission",
+"content_type": 2,
+"codename": "delete_permission"
+}
+}, {
+"model": "auth.permission",
+"pk": 7,
+"fields": {
+"name": "Can add group",
+"content_type": 3,
+"codename": "add_group"
+}
+}, {
+"model": "auth.permission",
+"pk": 8,
+"fields": {
+"name": "Can change group",
+"content_type": 3,
+"codename": "change_group"
+}
+}, {
+"model": "auth.permission",
+"pk": 9,
+"fields": {
+"name": "Can delete group",
+"content_type": 3,
+"codename": "delete_group"
+}
+}, {
+"model": "auth.permission",
+"pk": 10,
+"fields": {
+"name": "Can add user",
+"content_type": 4,
+"codename": "add_user"
+}
+}, {
+"model": "auth.permission",
+"pk": 11,
+"fields": {
+"name": "Can change user",
+"content_type": 4,
+"codename": "change_user"
+}
+}, {
+"model": "auth.permission",
+"pk": 12,
+"fields": {
+"name": "Can delete user",
+"content_type": 4,
+"codename": "delete_user"
+}
+}, {
+"model": "auth.permission",
+"pk": 13,
+"fields": {
+"name": "Can add content type",
+"content_type": 5,
+"codename": "add_contenttype"
+}
+}, {
+"model": "auth.permission",
+"pk": 14,
+"fields": {
+"name": "Can change content type",
+"content_type": 5,
+"codename": "change_contenttype"
+}
+}, {
+"model": "auth.permission",
+"pk": 15,
+"fields": {
+"name": "Can delete content type",
+"content_type": 5,
+"codename": "delete_contenttype"
+}
+}, {
+"model": "auth.permission",
+"pk": 16,
+"fields": {
+"name": "Can add session",
+"content_type": 6,
+"codename": "add_session"
+}
+}, {
+"model": "auth.permission",
+"pk": 17,
+"fields": {
+"name": "Can change session",
+"content_type": 6,
+"codename": "change_session"
+}
+}, {
+"model": "auth.permission",
+"pk": 18,
+"fields": {
+"name": "Can delete session",
+"content_type": 6,
+"codename": "delete_session"
+}
+}, {
+"model": "auth.permission",
+"pk": 19,
+"fields": {
+"name": "Can add question",
+"content_type": 7,
+"codename": "add_question"
+}
+}, {
+"model": "auth.permission",
+"pk": 20,
+"fields": {
+"name": "Can change question",
+"content_type": 7,
+"codename": "change_question"
+}
+}, {
+"model": "auth.permission",
+"pk": 21,
+"fields": {
+"name": "Can delete question",
+"content_type": 7,
+"codename": "delete_question"
+}
+}, {
+"model": "auth.permission",
+"pk": 22,
+"fields": {
+"name": "Can add choice",
+"content_type": 8,
+"codename": "add_choice"
+}
+}, {
+"model": "auth.permission",
+"pk": 23,
+"fields": {
+"name": "Can change choice",
+"content_type": 8,
+"codename": "change_choice"
+}
+}, {
+"model": "auth.permission",
+"pk": 24,
+"fields": {
+"name": "Can delete choice",
+"content_type": 8,
+"codename": "delete_choice"
+}
+}, {
+"model": "auth.permission",
+"pk": 25,
+"fields": {
+"name": "Can add comment",
+"content_type": 9,
+"codename": "add_comment"
+}
+}, {
+"model": "auth.permission",
+"pk": 26,
+"fields": {
+"name": "Can change comment",
+"content_type": 9,
+"codename": "change_comment"
+}
+}, {
+"model": "auth.permission",
+"pk": 27,
+"fields": {
+"name": "Can delete comment",
+"content_type": 9,
+"codename": "delete_comment"
+}
+}, {
+"model": "auth.permission",
+"pk": 28,
+"fields": {
+"name": "Can moderate comments",
+"content_type": 9,
+"codename": "can_moderate"
+}
+}, {
+"model": "auth.permission",
+"pk": 29,
+"fields": {
+"name": "Can add comment flag",
+"content_type": 10,
+"codename": "add_commentflag"
+}
+}, {
+"model": "auth.permission",
+"pk": 30,
+"fields": {
+"name": "Can change comment flag",
+"content_type": 10,
+"codename": "change_commentflag"
+}
+}, {
+"model": "auth.permission",
+"pk": 31,
+"fields": {
+"name": "Can delete comment flag",
+"content_type": 10,
+"codename": "delete_commentflag"
+}
+}, {
+"model": "auth.permission",
+"pk": 32,
+"fields": {
+"name": "Can add site",
+"content_type": 11,
+"codename": "add_site"
+}
+}, {
+"model": "auth.permission",
+"pk": 33,
+"fields": {
+"name": "Can change site",
+"content_type": 11,
+"codename": "change_site"
+}
+}, {
+"model": "auth.permission",
+"pk": 34,
+"fields": {
+"name": "Can delete site",
+"content_type": 11,
+"codename": "delete_site"
+}
+}, {
+"model": "auth.permission",
+"pk": 35,
+"fields": {
+"name": "Can add tag",
+"content_type": 12,
+"codename": "add_tag"
+}
+}, {
+"model": "auth.permission",
+"pk": 36,
+"fields": {
+"name": "Can change tag",
+"content_type": 12,
+"codename": "change_tag"
+}
+}, {
+"model": "auth.permission",
+"pk": 37,
+"fields": {
+"name": "Can delete tag",
+"content_type": 12,
+"codename": "delete_tag"
+}
+}, {
+"model": "auth.permission",
+"pk": 38,
+"fields": {
+"name": "Can add tagged item",
+"content_type": 13,
+"codename": "add_taggeditem"
+}
+}, {
+"model": "auth.permission",
+"pk": 39,
+"fields": {
+"name": "Can change tagged item",
+"content_type": 13,
+"codename": "change_taggeditem"
+}
+}, {
+"model": "auth.permission",
+"pk": 40,
+"fields": {
+"name": "Can delete tagged item",
+"content_type": 13,
+"codename": "delete_taggeditem"
+}
+}, {
+"model": "auth.permission",
+"pk": 41,
+"fields": {
+"name": "Can add category",
+"content_type": 14,
+"codename": "add_category"
+}
+}, {
+"model": "auth.permission",
+"pk": 42,
+"fields": {
+"name": "Can change category",
+"content_type": 14,
+"codename": "change_category"
+}
+}, {
+"model": "auth.permission",
+"pk": 43,
+"fields": {
+"name": "Can delete category",
+"content_type": 14,
+"codename": "delete_category"
+}
+}, {
+"model": "auth.permission",
+"pk": 44,
+"fields": {
+"name": "Can add entry",
+"content_type": 15,
+"codename": "add_entry"
+}
+}, {
+"model": "auth.permission",
+"pk": 45,
+"fields": {
+"name": "Can change entry",
+"content_type": 15,
+"codename": "change_entry"
+}
+}, {
+"model": "auth.permission",
+"pk": 46,
+"fields": {
+"name": "Can delete entry",
+"content_type": 15,
+"codename": "delete_entry"
+}
+}, {
+"model": "auth.permission",
+"pk": 47,
+"fields": {
+"name": "Can view all entries",
+"content_type": 15,
+"codename": "can_view_all"
+}
+}, {
+"model": "auth.permission",
+"pk": 48,
+"fields": {
+"name": "Can change status",
+"content_type": 15,
+"codename": "can_change_status"
+}
+}, {
+"model": "auth.permission",
+"pk": 49,
+"fields": {
+"name": "Can change author(s)",
+"content_type": 15,
+"codename": "can_change_author"
+}
+}, {
+"model": "auth.permission",
+"pk": 50,
+"fields": {
+"name": "Can add author",
+"content_type": 4,
+"codename": "add_author"
+}
+}, {
+"model": "auth.permission",
+"pk": 51,
+"fields": {
+"name": "Can change author",
+"content_type": 4,
+"codename": "change_author"
+}
+}, {
+"model": "auth.permission",
+"pk": 52,
+"fields": {
+"name": "Can delete author",
+"content_type": 4,
+"codename": "delete_author"
+}
+}, {
+"model": "auth.user",
+"pk": 1,
+"fields": {
+"password": "pbkdf2_sha256$36000$J9nHM8O5adIU$Znhwo3yaODwhTbbslHdFZHPirn83Xd2+4k/j7OsAdGE=",
+"last_login": "2017-12-15T07:57:18.322Z",
+"is_superuser": true,
+"username": "admin",
+"first_name": "",
+"last_name": "",
+"email": "a@a.com",
+"is_staff": true,
+"is_active": true,
+"date_joined": "2017-12-05T05:29:26.660Z",
+"groups": [],
+"user_permissions": []
+}
+}, {
+"model": "admin.logentry",
+"pk": 1,
+"fields": {
+"action_time": "2017-12-05T05:37:44.299Z",
+"user": 1,
+"content_type": 7,
+"object_id": "1",
+"object_repr": "HOW OLD ARE YOU?",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 2,
+"fields": {
+"action_time": "2017-12-05T05:40:18.894Z",
+"user": 1,
+"content_type": 7,
+"object_id": "1",
+"object_repr": "HOW OLD ARE YOU?",
+"action_flag": 2,
+"change_message": "[]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 3,
+"fields": {
+"action_time": "2017-12-05T06:07:15.723Z",
+"user": 1,
+"content_type": 7,
+"object_id": "2",
+"object_repr": "HOW MANY RULERS DO YOU HAVE",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 4,
+"fields": {
+"action_time": "2017-12-05T06:07:47.190Z",
+"user": 1,
+"content_type": 7,
+"object_id": "3",
+"object_repr": "HOW IS THE WHEATHER",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 5,
+"fields": {
+"action_time": "2017-12-05T06:08:28.680Z",
+"user": 1,
+"content_type": 7,
+"object_id": "4",
+"object_repr": "WHAT IS THIS?",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 6,
+"fields": {
+"action_time": "2017-12-05T06:08:52.263Z",
+"user": 1,
+"content_type": 7,
+"object_id": "5",
+"object_repr": "WHO ARE YOU?",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 7,
+"fields": {
+"action_time": "2017-12-05T07:27:51.572Z",
+"user": 1,
+"content_type": 8,
+"object_id": "1",
+"object_repr": "7",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 8,
+"fields": {
+"action_time": "2017-12-05T07:27:56.102Z",
+"user": 1,
+"content_type": 8,
+"object_id": "2",
+"object_repr": "8",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 9,
+"fields": {
+"action_time": "2017-12-05T07:28:00.271Z",
+"user": 1,
+"content_type": 8,
+"object_id": "3",
+"object_repr": "9",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 10,
+"fields": {
+"action_time": "2017-12-05T07:28:05.325Z",
+"user": 1,
+"content_type": 8,
+"object_id": "4",
+"object_repr": "10",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 11,
+"fields": {
+"action_time": "2017-12-15T07:57:51.587Z",
+"user": 1,
+"content_type": 7,
+"object_id": "6",
+"object_repr": "wwww6",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"choice\", \"object\": \"www\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"222\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"333\"}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 12,
+"fields": {
+"action_time": "2017-12-15T07:58:00.224Z",
+"user": 1,
+"content_type": 7,
+"object_id": "7",
+"object_repr": "www7",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"choice\", \"object\": \"sss\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"ddd\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"fff\"}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 13,
+"fields": {
+"action_time": "2017-12-18T02:22:13.442Z",
+"user": 1,
+"content_type": 7,
+"object_id": "2",
+"object_repr": "HOW MANY RULERS DO YOU HAVE",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"pub_date\"]}}, {\"added\": {\"name\": \"choice\", \"object\": \"1ruleer\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"2rulers\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"3rulers\"}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 14,
+"fields": {
+"action_time": "2017-12-18T02:49:59.022Z",
+"user": 1,
+"content_type": 7,
+"object_id": "2",
+"object_repr": "HOW MANY RULERS DO YOU HAVE",
+"action_flag": 2,
+"change_message": "[]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 15,
+"fields": {
+"action_time": "2017-12-18T02:50:29.270Z",
+"user": 1,
+"content_type": 7,
+"object_id": "7",
+"object_repr": "www7",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"name\": \"choice\", \"object\": \"7--1\", \"fields\": [\"choice_text\"]}}, {\"changed\": {\"name\": \"choice\", \"object\": \"7--2\", \"fields\": [\"choice_text\"]}}, {\"changed\": {\"name\": \"choice\", \"object\": \"7--3\", \"fields\": [\"choice_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 16,
+"fields": {
+"action_time": "2017-12-18T02:50:45.887Z",
+"user": 1,
+"content_type": 7,
+"object_id": "6",
+"object_repr": "wwww6",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"name\": \"choice\", \"object\": \"www61\", \"fields\": [\"choice_text\"]}}, {\"changed\": {\"name\": \"choice\", \"object\": \"22262\", \"fields\": [\"choice_text\"]}}, {\"changed\": {\"name\": \"choice\", \"object\": \"33363\", \"fields\": [\"choice_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 17,
+"fields": {
+"action_time": "2017-12-18T02:51:16.165Z",
+"user": 1,
+"content_type": 7,
+"object_id": "3",
+"object_repr": "HOW IS THE WHEATHER",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"pub_date\"]}}, {\"added\": {\"name\": \"choice\", \"object\": \"rainy\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"cloudy\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"sunny\"}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 18,
+"fields": {
+"action_time": "2017-12-18T02:51:29.205Z",
+"user": 1,
+"content_type": 7,
+"object_id": "4",
+"object_repr": "WHAT IS THIS?",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"pub_date\"]}}, {\"added\": {\"name\": \"choice\", \"object\": \"desk\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"chair\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"rubber\"}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 19,
+"fields": {
+"action_time": "2017-12-18T02:51:44.059Z",
+"user": 1,
+"content_type": 7,
+"object_id": "5",
+"object_repr": "WHO ARE YOU?",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"pub_date\"]}}, {\"added\": {\"name\": \"choice\", \"object\": \"am\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"an\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"jack\"}}]"
+}
+}]

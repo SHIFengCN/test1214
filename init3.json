@@ -1,0 +1,1152 @@
+[{
+"model": "polls.question",
+"pk": 1,
+"fields": {
+"question_text": "7.\u8ba4\u771f\u5904\u7406\u6295\u8bc9\uff0c\u4e0d\u63a8\u8bff\uff0c\u4e3b\u52a8\u544a\u8bc9\u6295\u8bc9\u4eba\u5904\u7406\u7ed3\u679c",
+"pub_date": "2017-05-04T18:02:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 2,
+"fields": {
+"question_text": "5.\u54a8\u8be2\u89e3\u7b54\uff0c\u8010\u5fc3\u70ed\u60c5\uff0c\u9996\u95ee\u8d1f\u8d23\uff0c\u4e0d\u63a8\u8bff",
+"pub_date": "2017-06-11T17:02:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 3,
+"fields": {
+"question_text": "6.\u610f\u89c1\uff08\u6295\u8bc9\uff09\u7bb1\u6446\u653e\u9192\u76ee\uff0c\u65b9\u4fbf\u6295\u8bc9",
+"pub_date": "2017-12-30T02:10:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 4,
+"fields": {
+"question_text": "4\u516c\u5f00\u529e\u4e8b\u5236\u5ea6\uff0c\u516c\u544a\u680f\u5185\u5bb9\u53ca\u65f6\u3001\u6709\u6548",
+"pub_date": "2017-12-01T02:10:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 5,
+"fields": {
+"question_text": "3.\u7740\u88c5\u89c4\u8303\u6574\u6d01\uff0c\u4e3e\u6b62\u7aef\u5e84\u5f97\u4f53",
+"pub_date": "2017-05-29T17:56:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 6,
+"fields": {
+"question_text": "2.\u4e1a\u52a1\u5f15\u5bfc\u6807\u793a\u89c4\u8303\u9192\u76ee",
+"pub_date": "2017-12-15T07:57:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 7,
+"fields": {
+"question_text": "1.\u5de5\u4f5c\u533a\u57df\u6574\u6d01\u536b\u751f\uff0c\u7981\u6b62\u5438\u70df",
+"pub_date": "2017-12-15T07:57:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 8,
+"fields": {
+"question_text": "8.\u4e25\u683c\u5ba1\u5355\uff0c\u51c6\u786e\u65e0\u8bef\uff0c\u4e0d\u65e0\u6545\u62d2\u529e",
+"pub_date": "2017-12-18T06:42:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 9,
+"fields": {
+"question_text": "9.\u73b0\u573a\u67e5\u9a8c\uff0c\u6309\u65f6\u529e\u7ed3",
+"pub_date": "2017-12-18T06:42:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 10,
+"fields": {
+"question_text": "10.\u4e1a\u52a1\u64cd\u4f5c\u89c4\u8303\u6709\u5e8f",
+"pub_date": "2017-12-18T06:43:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 11,
+"fields": {
+"question_text": "11.\u4e0d\u63a5\u53d7\u5ba2\u6237\u5403\u8bf7",
+"pub_date": "2017-12-18T06:43:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 12,
+"fields": {
+"question_text": "12.\u7269\u6d41\u7545\u901a\uff0c\u65e0\u4ea4\u901a\u62e5\u5835",
+"pub_date": "2017-12-18T06:43:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 13,
+"fields": {
+"question_text": "13.\u67e5\u9a8c\u5e73\u53f0\u8db3\u4ee5\u6ee1\u8db3\u67e5\u9a8c\u5de5\u4f5c\u9700\u8981",
+"pub_date": "2017-12-18T06:44:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 14,
+"fields": {
+"question_text": "14.\u4e0d\u4e71\u6536\u8d39",
+"pub_date": "2017-12-18T06:44:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 15,
+"fields": {
+"question_text": "15.\u5bf9\u7a81\u53d1\u4e8b\u4ef6\uff0c\u505a\u597d\u89e3\u91ca\u548c\u5e94\u5bf9",
+"pub_date": "2017-12-18T06:44:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 16,
+"fields": {
+"question_text": "16.\u4e25\u683c\u628a\u5173\uff0c\u7981\u6b62\u56fd\u5bb6\u9650\u5236\u7684\u7269\u54c1\u8fdb\u51fa\u53e3",
+"pub_date": "2017-12-18T06:45:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 17,
+"fields": {
+"question_text": "17.\u68c0\u75ab\u76d1\u7ba1\u5230\u4f4d\uff0c\u9632\u6b62\u6709\u5bb3\u751f\u7269\u4f20\u5165",
+"pub_date": "2017-12-18T06:45:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 18,
+"fields": {
+"question_text": "18.\u534f\u68c0\u4eba\u5458\u4e1a\u52a1\u6c34\u5e73\u826f\u597d\uff0c\u670d\u52a1\u5230\u4f4d",
+"pub_date": "2017-12-18T06:46:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 19,
+"fields": {
+"question_text": "19.\u4e25\u683c\u68c0\u9a8c\uff0c\u786e\u4fdd\u5546\u54c1\u8d28\u91cf",
+"pub_date": "2017-12-18T06:46:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 20,
+"fields": {
+"question_text": "20.\u4e25\u683c\u9075\u5b88\u638f\u7bb1\u786e\u8ba4\u5355\u5236\u5ea6",
+"pub_date": "2017-12-18T06:46:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 21,
+"fields": {
+"question_text": "21.\u6309\u65f6\u5230\u5c97\uff0c\u4e0d\u65e0\u6545\u79bb\u5c97\uff0c\u7f3a\u5c97",
+"pub_date": "2017-12-18T06:47:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 22,
+"fields": {
+"question_text": "22.\u4e0d\u95f2\u804a\uff0c\u4e0d\u505a\u4e0e\u5c97\u4f4d\u5de5\u4f5c\u65e0\u5173\u7684\u4e8b",
+"pub_date": "2017-12-18T06:47:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 23,
+"fields": {
+"question_text": "23.\u5b9e\u884c\u201c5+2\u201d,\u5168\u5e74\u65e0\u4f11\u653e\u884c\u901a\u5173",
+"pub_date": "2017-12-18T06:47:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 24,
+"fields": {
+"question_text": "24.\u5728\u653f\u7b56\u5141\u8bb8\u8303\u56f4\u5185\u6025\u4e8b\u6025\u529e\uff0c\u7279\u4e8b\u7279\u529e",
+"pub_date": "2017-12-18T06:48:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 25,
+"fields": {
+"question_text": "25.\u91cd\u89c6\u5ba2\u6237\u6295\u8bc9\uff0c\u8ba4\u771f\u5904\u7406\u4e0d\u63a8\u8bff",
+"pub_date": "2017-12-18T06:48:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 26,
+"fields": {
+"question_text": "26.\u901a\u5173\u5355\u7b7e\u53d1\u65b9\u4fbf\u5feb\u6377",
+"pub_date": "2017-12-18T06:49:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 27,
+"fields": {
+"question_text": "27.\u4e25\u683c\u628a\u5173\uff0c\u4e25\u9632\u7981\u5883\u7269\u54c1\u8fdb\u53e3",
+"pub_date": "2017-12-18T06:49:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 28,
+"fields": {
+"question_text": "28.\u4e25\u683c\u68c0\u9a8c\uff0c\u786e\u4fdd\u5546\u54c1\u8d28\u91cf",
+"pub_date": "2017-12-18T06:50:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 29,
+"fields": {
+"question_text": "29.\u4e0d\u6536\u53d7\u5ba2\u6237\u793c\u54c1\uff0c\u793c\u91d1",
+"pub_date": "2017-12-18T06:50:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 30,
+"fields": {
+"question_text": "30.\u4e0d\u65e0\u6545\u62d2\u529e\u4e1a\u52a1",
+"pub_date": "2017-12-18T06:52:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 31,
+"fields": {
+"question_text": "31.\u8bbe\u7acb\u54a8\u8be2\u5c97\u6216\u503c\u73ed\u5c97\uff0c\u65b9\u4fbf\u54a8\u8be2",
+"pub_date": "2017-12-18T06:53:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 32,
+"fields": {
+"question_text": "32.\u5b9e\u884c\u5206\u7c7b\u7ba1\u7406\uff0c\u52a0\u5feb\u653e\u884c\u901a\u5173",
+"pub_date": "2017-12-18T06:53:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 33,
+"fields": {
+"question_text": "33.\u7b80\u5316\u62a5\u68c0\u624b\u7eed",
+"pub_date": "2017-12-18T06:53:00Z"
+}
+}, {
+"model": "polls.choice",
+"pk": 1,
+"fields": {
+"question": 1,
+"choice_text": "7",
+"votes": 4
+}
+}, {
+"model": "polls.choice",
+"pk": 2,
+"fields": {
+"question": 1,
+"choice_text": "8",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 3,
+"fields": {
+"question": 1,
+"choice_text": "9",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 4,
+"fields": {
+"question": 1,
+"choice_text": "10",
+"votes": 1
+}
+}, {
+"model": "polls.choice",
+"pk": 5,
+"fields": {
+"question": 6,
+"choice_text": "www61",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 6,
+"fields": {
+"question": 6,
+"choice_text": "22262",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 7,
+"fields": {
+"question": 6,
+"choice_text": "33363",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 8,
+"fields": {
+"question": 7,
+"choice_text": "\u5f88\u6ee1\u610f",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 9,
+"fields": {
+"question": 7,
+"choice_text": "\u6ee1\u610f",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 10,
+"fields": {
+"question": 7,
+"choice_text": "\u4e00\u822c",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 11,
+"fields": {
+"question": 2,
+"choice_text": "1ruleer",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 12,
+"fields": {
+"question": 2,
+"choice_text": "2rulers",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 13,
+"fields": {
+"question": 2,
+"choice_text": "3rulers",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 14,
+"fields": {
+"question": 3,
+"choice_text": "rainy",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 15,
+"fields": {
+"question": 3,
+"choice_text": "cloudy",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 16,
+"fields": {
+"question": 3,
+"choice_text": "sunny",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 17,
+"fields": {
+"question": 4,
+"choice_text": "desk",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 18,
+"fields": {
+"question": 4,
+"choice_text": "chair",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 19,
+"fields": {
+"question": 4,
+"choice_text": "rubber",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 20,
+"fields": {
+"question": 5,
+"choice_text": "am",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 21,
+"fields": {
+"question": 5,
+"choice_text": "an",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 22,
+"fields": {
+"question": 5,
+"choice_text": "jack",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 23,
+"fields": {
+"question": 7,
+"choice_text": "\u4e0d\u6ee1\u610f",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 24,
+"fields": {
+"question": 7,
+"choice_text": "\u5f88\u4e0d\u6ee1\u610f",
+"votes": 0
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 1,
+"fields": {
+"app_label": "polls",
+"model": "choice"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 2,
+"fields": {
+"app_label": "polls",
+"model": "question"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 3,
+"fields": {
+"app_label": "admin",
+"model": "logentry"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 4,
+"fields": {
+"app_label": "auth",
+"model": "permission"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 5,
+"fields": {
+"app_label": "auth",
+"model": "group"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 6,
+"fields": {
+"app_label": "auth",
+"model": "user"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 7,
+"fields": {
+"app_label": "contenttypes",
+"model": "contenttype"
+}
+}, {
+"model": "contenttypes.contenttype",
+"pk": 8,
+"fields": {
+"app_label": "sessions",
+"model": "session"
+}
+}, {
+"model": "sessions.session",
+"pk": "1r3fhwf83v77y5n3nf2eb0vscpw1goab",
+"fields": {
+"session_data": "NDJjNDIzMGVlYTE4NmNlNjAwM2NmNTE2MGEwMGRjOTAxNGRjNzhkYTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjMWUwNjI1N2MwYmFmZTllZmM3YWVjYjA5ZTA5OTdmZWU3OGU5OGRlIn0=",
+"expire_date": "2018-01-01T06:35:57.171Z"
+}
+}, {
+"model": "auth.permission",
+"pk": 1,
+"fields": {
+"name": "Can add choice",
+"content_type": 1,
+"codename": "add_choice"
+}
+}, {
+"model": "auth.permission",
+"pk": 2,
+"fields": {
+"name": "Can change choice",
+"content_type": 1,
+"codename": "change_choice"
+}
+}, {
+"model": "auth.permission",
+"pk": 3,
+"fields": {
+"name": "Can delete choice",
+"content_type": 1,
+"codename": "delete_choice"
+}
+}, {
+"model": "auth.permission",
+"pk": 4,
+"fields": {
+"name": "Can add question",
+"content_type": 2,
+"codename": "add_question"
+}
+}, {
+"model": "auth.permission",
+"pk": 5,
+"fields": {
+"name": "Can change question",
+"content_type": 2,
+"codename": "change_question"
+}
+}, {
+"model": "auth.permission",
+"pk": 6,
+"fields": {
+"name": "Can delete question",
+"content_type": 2,
+"codename": "delete_question"
+}
+}, {
+"model": "auth.permission",
+"pk": 7,
+"fields": {
+"name": "Can add log entry",
+"content_type": 3,
+"codename": "add_logentry"
+}
+}, {
+"model": "auth.permission",
+"pk": 8,
+"fields": {
+"name": "Can change log entry",
+"content_type": 3,
+"codename": "change_logentry"
+}
+}, {
+"model": "auth.permission",
+"pk": 9,
+"fields": {
+"name": "Can delete log entry",
+"content_type": 3,
+"codename": "delete_logentry"
+}
+}, {
+"model": "auth.permission",
+"pk": 10,
+"fields": {
+"name": "Can add permission",
+"content_type": 4,
+"codename": "add_permission"
+}
+}, {
+"model": "auth.permission",
+"pk": 11,
+"fields": {
+"name": "Can change permission",
+"content_type": 4,
+"codename": "change_permission"
+}
+}, {
+"model": "auth.permission",
+"pk": 12,
+"fields": {
+"name": "Can delete permission",
+"content_type": 4,
+"codename": "delete_permission"
+}
+}, {
+"model": "auth.permission",
+"pk": 13,
+"fields": {
+"name": "Can add group",
+"content_type": 5,
+"codename": "add_group"
+}
+}, {
+"model": "auth.permission",
+"pk": 14,
+"fields": {
+"name": "Can change group",
+"content_type": 5,
+"codename": "change_group"
+}
+}, {
+"model": "auth.permission",
+"pk": 15,
+"fields": {
+"name": "Can delete group",
+"content_type": 5,
+"codename": "delete_group"
+}
+}, {
+"model": "auth.permission",
+"pk": 16,
+"fields": {
+"name": "Can add user",
+"content_type": 6,
+"codename": "add_user"
+}
+}, {
+"model": "auth.permission",
+"pk": 17,
+"fields": {
+"name": "Can change user",
+"content_type": 6,
+"codename": "change_user"
+}
+}, {
+"model": "auth.permission",
+"pk": 18,
+"fields": {
+"name": "Can delete user",
+"content_type": 6,
+"codename": "delete_user"
+}
+}, {
+"model": "auth.permission",
+"pk": 19,
+"fields": {
+"name": "Can add content type",
+"content_type": 7,
+"codename": "add_contenttype"
+}
+}, {
+"model": "auth.permission",
+"pk": 20,
+"fields": {
+"name": "Can change content type",
+"content_type": 7,
+"codename": "change_contenttype"
+}
+}, {
+"model": "auth.permission",
+"pk": 21,
+"fields": {
+"name": "Can delete content type",
+"content_type": 7,
+"codename": "delete_contenttype"
+}
+}, {
+"model": "auth.permission",
+"pk": 22,
+"fields": {
+"name": "Can add session",
+"content_type": 8,
+"codename": "add_session"
+}
+}, {
+"model": "auth.permission",
+"pk": 23,
+"fields": {
+"name": "Can change session",
+"content_type": 8,
+"codename": "change_session"
+}
+}, {
+"model": "auth.permission",
+"pk": 24,
+"fields": {
+"name": "Can delete session",
+"content_type": 8,
+"codename": "delete_session"
+}
+}, {
+"model": "auth.user",
+"pk": 1,
+"fields": {
+"password": "pbkdf2_sha256$36000$V2vH1cAJs4Zl$eVMLONJFKy27iYxjiBeOsRBTtkyJ/lRGbq+7qh0Wuik=",
+"last_login": "2017-12-18T06:35:57.120Z",
+"is_superuser": true,
+"username": "admin",
+"first_name": "",
+"last_name": "",
+"email": "a@a.com",
+"is_staff": true,
+"is_active": true,
+"date_joined": "2017-12-18T06:35:48.420Z",
+"groups": [],
+"user_permissions": []
+}
+}, {
+"model": "admin.logentry",
+"pk": 1,
+"fields": {
+"action_time": "2017-12-18T06:37:56.483Z",
+"user": 1,
+"content_type": 2,
+"object_id": "7",
+"object_repr": "1.1\u5de5\u4f5c\u533a\u57df\u6574\u6d01\u536b\u751f\uff0c\u7981\u6b62\u5438\u70df",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}, {\"added\": {\"name\": \"choice\", \"object\": \"\\u4e0d\\u6ee1\\u610f\"}}, {\"added\": {\"name\": \"choice\", \"object\": \"\\u5f88\\u4e0d\\u6ee1\\u610f\"}}, {\"changed\": {\"name\": \"choice\", \"object\": \"\\u5f88\\u6ee1\\u610f\", \"fields\": [\"choice_text\"]}}, {\"changed\": {\"name\": \"choice\", \"object\": \"\\u6ee1\\u610f\", \"fields\": [\"choice_text\"]}}, {\"changed\": {\"name\": \"choice\", \"object\": \"\\u4e00\\u822c\", \"fields\": [\"choice_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 2,
+"fields": {
+"action_time": "2017-12-18T06:38:09.436Z",
+"user": 1,
+"content_type": 2,
+"object_id": "7",
+"object_repr": "1.1\u5de5\u4f5c\u533a\u57df\u6574\u6d01\u536b\u751f\uff0c\u7981\u6b62\u5438\u70df",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"name\": \"choice\", \"object\": \"\\u6ee1\\u610f\", \"fields\": [\"votes\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 3,
+"fields": {
+"action_time": "2017-12-18T06:38:32.988Z",
+"user": 1,
+"content_type": 2,
+"object_id": "6",
+"object_repr": "2.2\u4e1a\u52a1\u5f15\u5bfc\u6807\u793a\u89c4\u8303\u9192\u76ee",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 4,
+"fields": {
+"action_time": "2017-12-18T06:39:31.409Z",
+"user": 1,
+"content_type": 2,
+"object_id": "5",
+"object_repr": "2.3\u7740\u88c5\u89c4\u8303\u6574\u6d01\uff0c\u4e3e\u6b62\u7aef\u5e84\u5f97\u4f53",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 5,
+"fields": {
+"action_time": "2017-12-18T06:39:46.567Z",
+"user": 1,
+"content_type": 2,
+"object_id": "4",
+"object_repr": "2.4\u516c\u5f00\u529e\u4e8b\u5236\u5ea6\uff0c\u516c\u544a\u680f\u5185\u5bb9\u53ca\u65f6\u3001\u6709\u6548",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 6,
+"fields": {
+"action_time": "2017-12-18T06:40:20.346Z",
+"user": 1,
+"content_type": 2,
+"object_id": "3",
+"object_repr": "6.\u610f\u89c1\uff08\u6295\u8bc9\uff09\u7bb1\u6446\u653e\u9192\u76ee\uff0c\u65b9\u4fbf\u6295\u8bc9",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 7,
+"fields": {
+"action_time": "2017-12-18T06:40:26.838Z",
+"user": 1,
+"content_type": 2,
+"object_id": "4",
+"object_repr": "4\u516c\u5f00\u529e\u4e8b\u5236\u5ea6\uff0c\u516c\u544a\u680f\u5185\u5bb9\u53ca\u65f6\u3001\u6709\u6548",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 8,
+"fields": {
+"action_time": "2017-12-18T06:40:33.692Z",
+"user": 1,
+"content_type": 2,
+"object_id": "6",
+"object_repr": "2.\u4e1a\u52a1\u5f15\u5bfc\u6807\u793a\u89c4\u8303\u9192\u76ee",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 9,
+"fields": {
+"action_time": "2017-12-18T06:40:39.949Z",
+"user": 1,
+"content_type": 2,
+"object_id": "5",
+"object_repr": "3.\u7740\u88c5\u89c4\u8303\u6574\u6d01\uff0c\u4e3e\u6b62\u7aef\u5e84\u5f97\u4f53",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 10,
+"fields": {
+"action_time": "2017-12-18T06:40:46.873Z",
+"user": 1,
+"content_type": 2,
+"object_id": "7",
+"object_repr": "1.\u5de5\u4f5c\u533a\u57df\u6574\u6d01\u536b\u751f\uff0c\u7981\u6b62\u5438\u70df",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 11,
+"fields": {
+"action_time": "2017-12-18T06:41:08.885Z",
+"user": 1,
+"content_type": 2,
+"object_id": "2",
+"object_repr": "5.\u54a8\u8be2\u89e3\u7b54\uff0c\u8010\u5fc3\u70ed\u60c5\uff0c\u9996\u95ee\u8d1f\u8d23\uff0c\u4e0d\u63a8\u8bff",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 12,
+"fields": {
+"action_time": "2017-12-18T06:41:52.429Z",
+"user": 1,
+"content_type": 2,
+"object_id": "1",
+"object_repr": "7.\u8ba4\u771f\u5904\u7406\u6295\u8bc9\uff0c\u4e0d\u63a8\u8bff\uff0c\u4e3b\u52a8\u544a\u8bc9\u6295\u8bc9\u4eba\u5904\u7406\u7ed3\u679c",
+"action_flag": 2,
+"change_message": "[{\"changed\": {\"fields\": [\"question_text\", \"pub_date\"]}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 13,
+"fields": {
+"action_time": "2017-12-18T06:42:35.082Z",
+"user": 1,
+"content_type": 2,
+"object_id": "8",
+"object_repr": "8.\u4e25\u683c\u5ba1\u5355\uff0c\u51c6\u786e\u65e0\u8bef\uff0c\u4e0d\u65e0\u6545\u62d2\u529e",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 14,
+"fields": {
+"action_time": "2017-12-18T06:42:50.845Z",
+"user": 1,
+"content_type": 2,
+"object_id": "9",
+"object_repr": "9.\u73b0\u573a\u67e5\u9a8c\uff0c\u6309\u65f6\u529e\u7ed3",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 15,
+"fields": {
+"action_time": "2017-12-18T06:43:06.607Z",
+"user": 1,
+"content_type": 2,
+"object_id": "10",
+"object_repr": "10.\u4e1a\u52a1\u64cd\u4f5c\u89c4\u8303\u6709\u5e8f",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 16,
+"fields": {
+"action_time": "2017-12-18T06:43:21.577Z",
+"user": 1,
+"content_type": 2,
+"object_id": "11",
+"object_repr": "11.\u4e0d\u63a5\u53d7\u5ba2\u6237\u5403\u8bf7",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 17,
+"fields": {
+"action_time": "2017-12-18T06:43:52.489Z",
+"user": 1,
+"content_type": 2,
+"object_id": "12",
+"object_repr": "12.\u7269\u6d41\u7545\u901a\uff0c\u65e0\u4ea4\u901a\u62e5\u5835",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 18,
+"fields": {
+"action_time": "2017-12-18T06:44:10.896Z",
+"user": 1,
+"content_type": 2,
+"object_id": "13",
+"object_repr": "13.\u67e5\u9a8c\u5e73\u53f0\u8db3\u4ee5\u6ee1\u8db3\u67e5\u9a8c\u5de5\u4f5c\u9700\u8981",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 19,
+"fields": {
+"action_time": "2017-12-18T06:44:22.830Z",
+"user": 1,
+"content_type": 2,
+"object_id": "14",
+"object_repr": "14.\u4e0d\u4e71\u6536\u8d39",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 20,
+"fields": {
+"action_time": "2017-12-18T06:44:40.430Z",
+"user": 1,
+"content_type": 2,
+"object_id": "15",
+"object_repr": "15.\u5bf9\u7a81\u53d1\u4e8b\u4ef6\uff0c\u505a\u597d\u89e3\u91ca\u548c\u5e94\u5bf9",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 21,
+"fields": {
+"action_time": "2017-12-18T06:45:26.565Z",
+"user": 1,
+"content_type": 2,
+"object_id": "16",
+"object_repr": "16.\u4e25\u683c\u628a\u5173\uff0c\u7981\u6b62\u56fd\u5bb6\u9650\u5236\u7684\u7269\u54c1\u8fdb\u51fa\u53e3",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 22,
+"fields": {
+"action_time": "2017-12-18T06:45:43.271Z",
+"user": 1,
+"content_type": 2,
+"object_id": "17",
+"object_repr": "17.\u68c0\u75ab\u76d1\u7ba1\u5230\u4f4d\uff0c\u9632\u6b62\u6709\u5bb3\u751f\u7269\u4f20\u5165",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 23,
+"fields": {
+"action_time": "2017-12-18T06:46:00.466Z",
+"user": 1,
+"content_type": 2,
+"object_id": "18",
+"object_repr": "18.\u534f\u68c0\u4eba\u5458\u4e1a\u52a1\u6c34\u5e73\u826f\u597d\uff0c\u670d\u52a1\u5230\u4f4d",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 24,
+"fields": {
+"action_time": "2017-12-18T06:46:24.169Z",
+"user": 1,
+"content_type": 2,
+"object_id": "19",
+"object_repr": "19.\u4e25\u683c\u68c0\u9a8c\uff0c\u786e\u4fdd\u5546\u54c1\u8d28\u91cf",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 25,
+"fields": {
+"action_time": "2017-12-18T06:46:44.215Z",
+"user": 1,
+"content_type": 2,
+"object_id": "20",
+"object_repr": "20.\u4e25\u683c\u9075\u5b88\u638f\u7bb1\u786e\u8ba4\u5355\u5236\u5ea6",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 26,
+"fields": {
+"action_time": "2017-12-18T06:47:06.055Z",
+"user": 1,
+"content_type": 2,
+"object_id": "21",
+"object_repr": "21.\u6309\u65f6\u5230\u5c97\uff0c\u4e0d\u65e0\u6545\u79bb\u5c97\uff0c\u7f3a\u5c97",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 27,
+"fields": {
+"action_time": "2017-12-18T06:47:22.030Z",
+"user": 1,
+"content_type": 2,
+"object_id": "22",
+"object_repr": "22.\u4e0d\u95f2\u804a\uff0c\u4e0d\u505a\u4e0e\u5c97\u4f4d\u5de5\u4f5c\u65e0\u5173\u7684\u4e8b",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 28,
+"fields": {
+"action_time": "2017-12-18T06:47:50.196Z",
+"user": 1,
+"content_type": 2,
+"object_id": "23",
+"object_repr": "23.\u5b9e\u884c\u201c5+2\u201d,\u5168\u5e74\u65e0\u4f11\u653e\u884c\u901a\u5173",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 29,
+"fields": {
+"action_time": "2017-12-18T06:48:26.580Z",
+"user": 1,
+"content_type": 2,
+"object_id": "24",
+"object_repr": "24.\u5728\u653f\u7b56\u5141\u8bb8\u8303\u56f4\u5185\u6025\u4e8b\u6025\u529e\uff0c\u7279\u4e8b\u7279\u529e",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 30,
+"fields": {
+"action_time": "2017-12-18T06:48:48.076Z",
+"user": 1,
+"content_type": 2,
+"object_id": "25",
+"object_repr": "25.\u91cd\u89c6\u5ba2\u6237\u6295\u8bc9\uff0c\u8ba4\u771f\u5904\u7406\u4e0d\u63a8\u8bff",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 31,
+"fields": {
+"action_time": "2017-12-18T06:49:01.066Z",
+"user": 1,
+"content_type": 2,
+"object_id": "26",
+"object_repr": "26.\u901a\u5173\u5355\u7b7e\u53d1\u65b9\u4fbf\u5feb\u6377",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 32,
+"fields": {
+"action_time": "2017-12-18T06:49:37.726Z",
+"user": 1,
+"content_type": 2,
+"object_id": "27",
+"object_repr": "27.\u4e25\u683c\u628a\u5173\uff0c\u4e25\u9632\u7981\u5883\u7269\u54c1\u8fdb\u53e3",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 33,
+"fields": {
+"action_time": "2017-12-18T06:50:00.695Z",
+"user": 1,
+"content_type": 2,
+"object_id": "28",
+"object_repr": "28.\u4e25\u683c\u68c0\u9a8c\uff0c\u786e\u4fdd\u5546\u54c1\u8d28\u91cf",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 34,
+"fields": {
+"action_time": "2017-12-18T06:50:45.216Z",
+"user": 1,
+"content_type": 2,
+"object_id": "29",
+"object_repr": "29.\u4e0d\u6536\u53d7\u5ba2\u6237\u793c\u54c1\uff0c\u793c\u91d1",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 35,
+"fields": {
+"action_time": "2017-12-18T06:52:46.111Z",
+"user": 1,
+"content_type": 2,
+"object_id": "30",
+"object_repr": "30.\u4e0d\u65e0\u6545\u62d2\u529e\u4e1a\u52a1",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 36,
+"fields": {
+"action_time": "2017-12-18T06:53:08.534Z",
+"user": 1,
+"content_type": 2,
+"object_id": "31",
+"object_repr": "31.\u8bbe\u7acb\u54a8\u8be2\u5c97\u6216\u503c\u73ed\u5c97\uff0c\u65b9\u4fbf\u54a8\u8be2",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 37,
+"fields": {
+"action_time": "2017-12-18T06:53:24.350Z",
+"user": 1,
+"content_type": 2,
+"object_id": "32",
+"object_repr": "32.\u5b9e\u884c\u5206\u7c7b\u7ba1\u7406\uff0c\u52a0\u5feb\u653e\u884c\u901a\u5173",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}, {
+"model": "admin.logentry",
+"pk": 38,
+"fields": {
+"action_time": "2017-12-18T06:53:49.386Z",
+"user": 1,
+"content_type": 2,
+"object_id": "33",
+"object_repr": "33.\u7b80\u5316\u62a5\u68c0\u624b\u7eed",
+"action_flag": 1,
+"change_message": "[{\"added\": {}}]"
+}
+}]

@@ -1,0 +1,19 @@
+{% if all_question_list %}
+    <ul>
+        <form action="{% url 'polls:voteall' %}" method="post">
+        {% csrf_token %}
+        {% for question in all_question_list %}
+            <h5>{{ question.id }}-{{ question.question_text }}</h5><br />
+            {% for choice in question.choices.all %}
+                <input type="radio" name="choice{{question.id}}" id="choice{{ forloop.counter }}" value="{{ forloop.counter }}" />
+                <label for="choice{{ forloop.counter }}">{{ choice.choice_text }}</label><br />
+            {% endfor %}
+        {% endfor %}
+
+        <input type="submit" value="Vote" />
+        </form>
+
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}

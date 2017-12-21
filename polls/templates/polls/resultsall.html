@@ -1,0 +1,16 @@
+{% if all_question_list %}
+    <ul>
+        {% for question in all_question_list %}
+            <h5>{{ question.id }}-{{ question.question_text }}</h5><br />
+            {% for choice in question.choices.all %}
+                <!-- {{ choice.votes }} vote{{ choice.votes|pluralize }}<<--对choice.votes的单复数进行检测，如果为复数，则对vote转换为复数形式-->
+                <li>{{ choice.choice_text }} -- {{ choice.votes }} vote{{ choice.votes|pluralize }}</li>
+            {% endfor %}
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
+
+
+

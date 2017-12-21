@@ -1,0 +1,10 @@
+#将数据库中的数据保存到json
+>python manage.py dumpdata --indent 0 | out-file init.json
+#将指定的应用polls的数据保存到json
+win
+>python manage.py dumpdata polls --indent 0 | out-file init.json
+linux
+#python manage.py dumpdata polls --indent 0 >> init.json
+#删除其中的非polls model的数据删除，见init2.json
+#初始化数据
+>python manage.py loaddata init.json

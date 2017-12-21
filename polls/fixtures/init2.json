@@ -1,0 +1,226 @@
+[{
+"model": "polls.question",
+"pk": 1,
+"fields": {
+"question_text": "HOW OLD ARE YOU?",
+"pub_date": "2017-05-04T18:02:12Z"
+}
+}, {
+"model": "polls.question",
+"pk": 2,
+"fields": {
+"question_text": "HOW MANY RULERS DO YOU HAVE",
+"pub_date": "2017-06-11T17:02:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 3,
+"fields": {
+"question_text": "HOW IS THE WHEATHER",
+"pub_date": "2017-12-30T02:10:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 4,
+"fields": {
+"question_text": "WHAT IS THIS?",
+"pub_date": "2017-12-01T02:10:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 5,
+"fields": {
+"question_text": "WHO ARE YOU?",
+"pub_date": "2017-05-29T17:56:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 6,
+"fields": {
+"question_text": "wwww6",
+"pub_date": "2017-12-15T07:57:00Z"
+}
+}, {
+"model": "polls.question",
+"pk": 7,
+"fields": {
+"question_text": "www7",
+"pub_date": "2017-12-15T07:57:00Z"
+}
+}, {
+"model": "polls.choice",
+"pk": 1,
+"fields": {
+"question": 1,
+"choice_text": "7",
+"votes": 4
+}
+}, {
+"model": "polls.choice",
+"pk": 2,
+"fields": {
+"question": 1,
+"choice_text": "8",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 3,
+"fields": {
+"question": 1,
+"choice_text": "9",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 4,
+"fields": {
+"question": 1,
+"choice_text": "10",
+"votes": 1
+}
+}, {
+"model": "polls.choice",
+"pk": 5,
+"fields": {
+"question": 6,
+"choice_text": "www61",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 6,
+"fields": {
+"question": 6,
+"choice_text": "22262",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 7,
+"fields": {
+"question": 6,
+"choice_text": "33363",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 8,
+"fields": {
+"question": 7,
+"choice_text": "7--1",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 9,
+"fields": {
+"question": 7,
+"choice_text": "7--2",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 10,
+"fields": {
+"question": 7,
+"choice_text": "7--3",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 11,
+"fields": {
+"question": 2,
+"choice_text": "1ruleer",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 12,
+"fields": {
+"question": 2,
+"choice_text": "2rulers",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 13,
+"fields": {
+"question": 2,
+"choice_text": "3rulers",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 14,
+"fields": {
+"question": 3,
+"choice_text": "rainy",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 15,
+"fields": {
+"question": 3,
+"choice_text": "cloudy",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 16,
+"fields": {
+"question": 3,
+"choice_text": "sunny",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 17,
+"fields": {
+"question": 4,
+"choice_text": "desk",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 18,
+"fields": {
+"question": 4,
+"choice_text": "chair",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 19,
+"fields": {
+"question": 4,
+"choice_text": "rubber",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 20,
+"fields": {
+"question": 5,
+"choice_text": "am",
+"votes": 0
+}
+}, {
+"model": "polls.choice",
+"pk": 21,
+"fields": {
+"question": 5,
+"choice_text": "an",
+"votes": 3
+}
+}, {
+"model": "polls.choice",
+"pk": 22,
+"fields": {
+"question": 5,
+"choice_text": "jack",
+"votes": 0
+}
+}]
